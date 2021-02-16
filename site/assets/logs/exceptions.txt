@@ -1,0 +1,6 @@
+2020-11-20 12:25:51	admin	https://www.praktikumsdb.com/admin/setup/field/import/	SQLSTATE[42S02]: Base table or view not found: 1146 Table 'db57428.field_mailadresse' doesn't exist (in /wire/core/WireDatabasePDOStatement.php line 166)
+2020-11-28 08:43:30	admin	https://www.praktikumsdb.com/admin/access/users/edit/?id=40	Page /admin/access/users/guest/ (40) cannot be deleted: it has “system” and/or “systemID” status (in /wire/core/PagesEditor.php line 301)
+2020-12-16 14:43:30	guest	https://praktikumsdb.com/admin/login/	This request was aborted because it appears to be forged. (in /wire/core/SessionCSRF.php line 191)
+2021-01-27 12:23:37	guest	https://praktikumsdb.com/admin/login/	This request was aborted because it appears to be forged. (in /wire/core/SessionCSRF.php line 191)
+2021-02-03 19:19:50	guest	https://praktikumsdb.com/admin/login/	This request was aborted because it appears to be forged. (in /wire/core/SessionCSRF.php line 191)
+2021-02-04 11:14:16	guest	https://praktikumsdb.com/admin/login/	This request was aborted because it appears to be forged. (in /wire/core/SessionCSRF.php line 191)
